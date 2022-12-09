@@ -18,13 +18,20 @@
   - Big Data
   - Reinforcement Learning
   - Explanaible AI
-  - Cognitive AI 
+  - Cognitive AI
 
+<!--Quadro de atividades-->
 <div align="center">
   <a href="https://github.com/JohnVithor">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=JohnVithor&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=JohnVithor&layout=compact&langs_count=8&theme=tokyonight"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=JohnVithor&amp;include_all_commits=true&amp;show_icons=true&amp;count_private=true&amp;show_border=true&amp;border_color=4169E1&amp;title_color=4169E1&amp;icon_color=4169E1&amp;text_color=FFFFFF&amp;bg_color=111111"/>
+  
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=JohnVithor&layout=compact&amp;show_border=true&amp;border_color=4169E1&amp;title_color=4169E1&amp;text_color=FFFFFF&amp;bg_color=111111"/>
 </div>
+
+<!--Troféus adquiridos-->
+<p align="center">  
+  <img src="https://github-profile-trophy.vercel.app/?username=JohnVithor&amp;theme=juicyfresh&amp;no-bg=false&amp;column=7&amp;margin-w=15&amp;margin-h=15" style="max-width: 100%;">
+</p>
 
 ### :scroll: Programming Languages
 - :closed_book: Confortable:
@@ -64,4 +71,8 @@
 [![Gmail Badge](https://img.shields.io/badge/-jv.venceslau.c@gmail.com-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:jv.venceslau.c@gmail.com)](mailto:jv.venceslau.c@gmail.com)
 [![Linkedin](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/joão-vítor-venceslau-coelho-219464177/)](https://www.linkedin.com/in/joão-vítor-venceslau-coelho-219464177/)
 
-![Snake animation](https://github.com/johnvithor/johnvithor/blob/output/github-contribution-grid-snake.svg)
+<div align="center">
+
+  ![Snake animation](https://github.com/johnvithor/johnvithor/blob/output/github-contribution-grid-snake.svg)
+
+</div>
