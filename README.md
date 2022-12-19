@@ -2,7 +2,7 @@
 <img src="https://capsule-render.vercel.app/api?type=waving&amp;color=000000&amp;height=100&amp;section=header" style="max-width: 100%;" width="100%">
 
 <!--Introdução animada-->
-[![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=000000&amp;size=40&amp;center=true&amp;vCenter=true&amp;height=70&amp;width=1000&amp;lines=Hi+there+I'm+João+Vítor;A+24+years+old+student+from+Brazil;I'm+studying+Computer+Science+at+UFRN)](https://github.com/JohnVithor)
+[![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=FFFFFF&amp;size=40&amp;center=true&amp;vCenter=true&amp;height=70&amp;width=1000&amp;lines=Hi+there+I'm+João+Vítor;A+24+years+old+student+from+Brazil;I'm+studying+Computer+Science+at+UFRN)](https://github.com/JohnVithor)
 
 <!--Imagem botton-->
 <img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=000000&height=100&section=footer"/>
