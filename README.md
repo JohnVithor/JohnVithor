@@ -9,11 +9,11 @@
 
 ### Undergraduate student in Computer Science at Universidade Federal do Rio Grande do Norte (UFRN)
 
-- :briefcase: I’m currently working as a Java backend developer in a Research Project of IMD in partnership with the PRF
+- :briefcase: I’m currently working as a Python-Django backend developer in the Laboratory of Technological Innovation in Health (LAIS/UFRN)
 - :mortar_board: I’m currently studying the following subjects on university:
-  -  Distributed Programming
-  -  Especification and Validation of Programs
-  -  Computer Graphics
+  -  Reinforcement Learning
+  -  Embedded Systems
+  -  Human-Computer Interaction
 - :memo: I'm have interest in learn more about:
   - Big Data
   - Reinforcement Learning
@@ -34,15 +34,17 @@
 </p>
 
 ### :scroll: Programming Languages
-- :closed_book: Confortable:
+- :closed_book: I am confortable with:
 ![Python](https://img.shields.io/badge/python-3670A0?style=flat-square&logo=python&logoColor=ffdd54)
 ![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=flat-square&logo=java&logoColor=white)
+  
+- :open_book: I know a little more than the basics:
 ![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=flat-square&logo=c%2B%2B&logoColor=white)
 ![C](https://img.shields.io/badge/c-%2300599C.svg?style=flat-square&logo=c&logoColor=white)
 ![C#](https://img.shields.io/badge/c%23-%23239120.svg?style=flat-square&logo=c-sharp&logoColor=white)
 ![Haskell](https://img.shields.io/badge/Haskell-5e5086?style=flat-square&logo=haskell&logoColor=white)
 
-- :seedling: Learning
+- :seedling: Currently learning:
 ![Rust](https://img.shields.io/badge/rust-%23000000.svg?style=flat-square&logo=rust&logoColor=white)
 
 <!-- - :eyes: Want to Learn! -->
@@ -59,6 +61,7 @@
 ![TensorFlow](https://img.shields.io/badge/TensorFlow-%23FF6F00.svg?style=flat-square&logo=TensorFlow&logoColor=white)
 ![OpenCV](https://img.shields.io/badge/opencv-%23white.svg?style=flat-square&logo=opencv&logoColor=white)
 ![Spring](https://img.shields.io/badge/spring-%236DB33F.svg?style=flat-square&logo=spring&logoColor=white)
+![Django](https://img.shields.io/badge/django-%23092E20.svg?style=flat-square&logo=django&logoColor=white)
 
 ### :computer: IDEs/Editors
 ![Visual Studio Code](https://img.shields.io/badge/Visual%20Studio%20Code-0078d7.svg?style=flat-square&logo=visual-studio-code&logoColor=white)
