@@ -9,7 +9,7 @@
 
 ### Master student in Computer Engineering at Universidade Federal do Rio Grande do Norte (UFRN)
 
-- :briefcase: I’m currently working as a Python AI and backend developer in and project for Hubbi (IMD/UFRN)
+- :briefcase: I’m currently working as an AI developer in two projects até IMD/UFRN
 - :mortar_board: I’m currently studying the following subjects:
   -  Reinforcement Learning
   -  Deep Learning
